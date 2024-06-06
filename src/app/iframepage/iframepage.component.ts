@@ -11,6 +11,8 @@ import { SafeResourceUrl } from '@angular/platform-browser';
 })
 export class IframepageComponent {
   isWhiteBoard: boolean = false;
+  lightTileColor: string = '#f0d9b5';
+  darkTileColor: string = '#FB0006';
 
   @Input() onGameEnd!: () => void;
 
