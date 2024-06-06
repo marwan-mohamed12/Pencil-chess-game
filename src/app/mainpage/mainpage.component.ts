@@ -13,7 +13,7 @@ export class MainpageComponent {
   @ViewChild('black_board_iframe')
   blackBoardIframe!: ElementRef<HTMLIFrameElement>;
 
-  gameFinished = true;
+  gameFinished = false;
   iFrameWhiteBoardUrl: SafeResourceUrl = '';
   iFrameBlackBoardUrl: SafeResourceUrl = '';
 
