@@ -1,4 +1,7 @@
 <div class="game-wrapper">
+  <button class="new-game-button reset-btn" (click)="reset()">
+    Reset
+  </button>
   <div class="boards-container">
     <iframe #white_board_iframe [src]="iFrameWhiteBoardUrl" height="550" width="550" class="test">
     </iframe>

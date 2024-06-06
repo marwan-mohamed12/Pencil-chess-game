@@ -40,6 +40,12 @@
   transition: background-color 0.3s ease;
 }
 
+.reset-btn {
+  width: 300px;
+  align-self: center;
+  margin-top: 20px;
+}
+
 .new-game-button:hover {
   background-color: #45a049;
 }
