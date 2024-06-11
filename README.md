@@ -4,6 +4,9 @@ This repository demonstrates a simple chess game implemented using Angular and t
 
 - [Demo Link](https://pencil-chess-game-git-main-marwan-mohamed12s-projects.vercel.app/mainpage)
 
+  ![Screenshot 2024-06-06 144838](https://github.com/marwan-mohamed12/Pencil-chess-game/assets/40841193/80b9acdd-0ab9-49d9-bdd7-32e69e743a8b)
+
+
 **Key Features:**
 
 * **Angular:** Built with Angular framework for component-based architecture and reactive programming.
